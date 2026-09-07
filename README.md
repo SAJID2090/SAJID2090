@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajid Wazir</h1>
+<h1 align="center">Sajid Wazir</h1>
 <p align="center"><b>PhD Researcher | Teaching Assistant | AI & XR Specialist</b></p>
 
 <p align="center">
